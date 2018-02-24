@@ -1,1 +1,1 @@
-# web-gulp
+# Starter project for web development using gulp

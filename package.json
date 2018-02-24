@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "TIMBIOZ-PC\\timbioz <volkovtim@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
 }
