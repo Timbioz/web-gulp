@@ -1,0 +1,13 @@
+{
+  "name": "web-gulp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Timbioz/web-gulp.git",
+  "author": "TIMBIOZ-PC\\timbioz <volkovtim@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0"
+  }
+}
